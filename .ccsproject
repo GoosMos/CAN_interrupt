@@ -17,5 +17,8 @@
 	<sourceLookupPath value="${COM_TI_MSPM0_SDK_INSTALL_DIR}/source/ti/driverlib"/>
 	<origin value="C:\ti\mspm0_sdk_2_02_00_05\examples\nortos\LP_MSPM0G3507\driverlib\mcan_message_rx\ticlang\mcan_message_rx_LP_MSPM0G3507_nortos_ticlang.projectspec"/>
 	<filesToOpen value="mcan_message_rx.syscfg,README.md"/>
+<<<<<<< HEAD
 	<isTargetManual value="true"/>
+=======
+>>>>>>> master
 </projectOptions>
