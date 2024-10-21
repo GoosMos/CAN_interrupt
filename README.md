@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CAN Interrupt Communication
 This project demonstrates data transmission and reception between devices using the CAN protocol.
 
@@ -90,4 +89,3 @@ To turn off the LED_2, the example must receive the following package:
 Note: There is a known limitation where the example might stop receiving
 packages if the application halt execution after hitting a breakpoint. It is
 highly recommended to use free run option while testing the example.
->>>>>>> master
